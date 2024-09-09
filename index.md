@@ -18,7 +18,7 @@ updateRepos(repos.value,defaultRepoInfos)
 const focusRepo = getFocusRepo(repos.value)
 
 fetchRepos().then((data)=>{
-   updateRepos(repos.value,data) 
+   updateRepos(repos.value,data)
 })
 // <FocusRepoCard :repo="focusRepo"/>  
 
