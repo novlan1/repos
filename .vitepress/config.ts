@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "FirstAsk",
+  title: "novlan1",
   base: '/repos/',
   description: "用爱开源",  
   appearance: {
