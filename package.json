@@ -1,0 +1,24 @@
+{
+  "name": "fisherrepos",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "update:repos": "node utils/updateRepos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "vue": "^3.4.35"
+  },
+  "dependencies": {
+    "vitepress": "1.3.1"
+  }
+}

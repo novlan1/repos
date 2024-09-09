@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Press UI",
+    "author": "novlan1",
+    "name": "press-ui",
+    "homepage": "https://novlan1.github.io/press-ui",
+    "description": "易用、灵活的组件库，同时支持 Vue2 、Vue3、uni-app、非 uni-app",
+    "topics": [],
+    "focus": true,
+    "notes": "Component Library"
+  },
+  {
+    "title": "Plugin Light",
+    "author": "novlan1",
+    "name": "uni-plugin-light",
+    "homepage": "https://novlan1.github.io/uni-plugin-light",
+    "description": "项目通用配置、Webpack和Vite插件集合",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Eslint Config Light",
+    "author": "novlan1",
+    "name": "eslint-config-light",
+    "homepage": "",
+    "description": "开箱即用的 Eslint 配置",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "T Comm",
+    "author": "novlan1",
+    "name": "t-comm",
+    "homepage": "https://novlan1.github.io/t-comm",
+    "description": "丰富易用的工具库",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Press Swiper",
+    "author": "novlan1",
+    "name": "press-swiper",
+    "homepage": "https://novlan1.github.io/press-swiper",
+    "description": "基于 uni-app，适配多端的高度自定义轮播组件",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Mime Light",
+    "author": "novlan1",
+    "name": "mime-light",
+    "homepage": "",
+    "description": "支持低版本 node.js 的 mime",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  }
+]
