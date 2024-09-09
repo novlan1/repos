@@ -38,19 +38,5 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/novlan1' }
     ]
   },
-  head: [  
-      [
-        'script',
-        {},
-        ` 
-        var _hmt = _hmt || [];
-        (function() {
-          var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?3825fe54a812ed665c0e160e73edff56";
-          var s = document.getElementsByTagName("script")[0]; 
-          s.parentNode.insertBefore(hm, s);
-        })(); 
-        `
-      ]
-    ]
+  head: [['link', { rel: 'icon', href: 'https://mike-1255355338.cos.ap-guangzhou.myqcloud.com/article/2023/8/own_mike_0d0107312bfd164de4.ico' }]]
 })
