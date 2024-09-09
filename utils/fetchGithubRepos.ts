@@ -53,7 +53,7 @@ export async function fetchRepos() {
       return pickRepoInfos(reposData);
     } catch (error) {
       console.error('Error fetching repos:', error);
-      return defaultGithubRepos
+      return defaultRepoInfos;
     }
 }
   
