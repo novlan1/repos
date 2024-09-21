@@ -98,5 +98,55 @@
     "topics": [],
     "focus": false,
     "notes": ""
+  },
+  {
+    "title": "Coding Everyday",
+    "author": "novlan1",
+    "name": "coding-everyday",
+    "homepage": "https://novlan1.github.io/coding-everyday/",
+    "description": "笔记、文章",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Press UI Demo Vue2",
+    "author": "novlan1",
+    "name": "press-ui-demo-vue2",
+    "homepage": "https://novlan1.github.io/press-ui-demo-vue2/",
+    "description": "Press UI 的 uni-app Vue2 示例",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Press UI Demo Vue3",
+    "author": "novlan1",
+    "name": "press-ui-demo-vue3",
+    "homepage": "https://novlan1.github.io/press-ui-demo-vue3/",
+    "description": "Press UI 的 uni-app Vue3 示例",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Press UI Demo Vue2 Pure",
+    "author": "novlan1",
+    "name": "press-ui-demo-vue2-pure",
+    "homepage": "https://novlan1.github.io/press-ui-demo-vue2-pure/",
+    "description": "Press UI 的非 uni-app Vue2 示例",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Press UI Demo Vue3 Pure",
+    "author": "novlan1",
+    "name": "press-ui-demo-vue3-pure",
+    "homepage": "https://novlan1.github.io/press-ui-demo-vue3-pure/",
+    "description": "Press UI 的非 uni-app Vue3 示例",
+    "topics": [],
+    "focus": false,
+    "notes": ""
   }
 ]
