@@ -12,8 +12,8 @@
   {
     "title": "Plugin Light",
     "author": "novlan1",
-    "name": "uni-plugin-light",
-    "homepage": "https://novlan1.github.io/uni-plugin-light",
+    "name": "plugin-light",
+    "homepage": "https://novlan1.github.io/plugin-light",
     "description": "项目通用配置、Webpack和Vite插件集合",
     "topics": [],
     "focus": false,
@@ -65,6 +65,36 @@
     "name": "garbage-classify-tensorflow",
     "homepage": "https://github.com/novlan1/garbage-classify-tensorflow",
     "description": "基于 tensorflowjs 的垃圾分类",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "More CSS",
+    "author": "novlan1",
+    "name": "more-css",
+    "homepage": "https://github.com/novlan1/more-css",
+    "description": "炫酷的 CSS 集合",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Comment Code Online",
+    "author": "novlan1",
+    "name": "comment-code-online",
+    "homepage": "https://novlan1.github.io/comment-code-online/",
+    "description": "在线注释代码",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Canvas Game",
+    "author": "novlan1",
+    "name": "canvas-game",
+    "homepage": "https://novlan1.github.io/canvas-game/",
+    "description": "小游戏集合",
     "topics": [],
     "focus": false,
     "notes": ""
