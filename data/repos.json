@@ -23,7 +23,7 @@
     "title": "Eslint Config Light",
     "author": "novlan1",
     "name": "eslint-config-light",
-    "homepage": "",
+    "homepage": "https://github.com/novlan1/eslint-config-light",
     "description": "开箱即用的 Eslint 配置",
     "topics": [],
     "focus": false,
@@ -53,8 +53,18 @@
     "title": "Mime Light",
     "author": "novlan1",
     "name": "mime-light",
-    "homepage": "",
+    "homepage": "https://github.com/novlan1/mime-light",
     "description": "支持低版本 node.js 的 mime",
+    "topics": [],
+    "focus": false,
+    "notes": ""
+  },
+  {
+    "title": "Garbage Classify Tensorflow",
+    "author": "novlan1",
+    "name": "garbage-classify-tensorflow",
+    "homepage": "https://github.com/novlan1/garbage-classify-tensorflow",
+    "description": "基于 tensorflowjs 的垃圾分类",
     "topics": [],
     "focus": false,
     "notes": ""
