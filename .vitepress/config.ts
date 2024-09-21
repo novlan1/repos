@@ -5,6 +5,7 @@ export default defineConfig({
   title: "novlan1",
   base: '/repos/',
   description: "用爱开源",  
+  lang: 'zh-CN',
   appearance: {
     initialValue:'dark',
   },
